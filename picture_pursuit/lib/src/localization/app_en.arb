@@ -1,0 +1,6 @@
+{
+  "appTitle": "picture_pursuit",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
